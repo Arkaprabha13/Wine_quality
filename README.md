@@ -39,10 +39,3 @@ Now open up your local host 0.0.0.0:8080
 ```
 
 
-
-
-	1. AmazonEC2ContainerRegistryFullAccess
-
-	2. AmazonEC2FullAccess
-
-	
